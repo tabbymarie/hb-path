@@ -9,11 +9,10 @@ Based on Pulse by [Jeffikus](http://jeffikus.com/ "Jeffikus"), HB Path is an exa
 
 Credit must go to the following sites and people for making resources available:
 
+* [Jeffikus]. For pulse.
 * Remi Corson - a colleague of mine at [WooThemes](http://woothemes.com/ "WooThemes") gave me my initial run through of Heartbeat at this years WordCamp Europe in between talks - www.remicorson.com
 * Pippin wrote a great starter tutorial here - http://pippinsplugins.com/using-the-wordpress-heartbeat-api/
 * WP Tuts Plus also wrote a great 3 part series - http://wp.tutsplus.com/tutorials/creative-coding/the-heartbeat-api-getting-started/
 * The WordPress Codex of course - http://codex.wordpress.org/Function_Reference/wp_heartbeat_settings
-* wp-heartbeat-notify is a great example plugin - https://github.com/micc83/wp-heartbeat-notify
-* Jason Coleman also wrote a great tutorial - http://www.strangerstudios.com/blog/2013/08/heartbeat-api-for-wordpress/
 
 
